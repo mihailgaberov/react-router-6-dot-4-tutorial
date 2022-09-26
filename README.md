@@ -1,1 +1,3 @@
-# react-router-6-dot-4-tutorial
+# React Router 6.4 Tutorial
+
+[Go to the turorial page](https://beta.reactrouter.com/en/dev/start/tutorial)
